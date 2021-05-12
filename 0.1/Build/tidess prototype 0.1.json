@@ -1,0 +1,17 @@
+{
+"companyName": "INIT Lab",
+"productName": "TIDESS Unity Prototype",
+"productVersion": "0.1",
+"dataUrl": "tidess prototype 0.1.data.unityweb",
+"wasmCodeUrl": "tidess prototype 0.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "tidess prototype 0.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "tidess prototype 0.1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
